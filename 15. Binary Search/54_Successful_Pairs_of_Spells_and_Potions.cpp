@@ -35,3 +35,5 @@ int main()
 
     return 0;
 }
+
+// https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/?envType=study-plan-v2&envId=leetcode-75

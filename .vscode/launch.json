@@ -2,6 +2,27 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "L71_Search_Suggestions_System",
+      "request": "launch",
+      "mainClass": "L71_Search_Suggestions_System",
+      "projectName": "Leetcode 75_d54e8430"
+    },
+    {
+      "type": "java",
+      "name": "L65_Edit_Distance",
+      "request": "launch",
+      "mainClass": "L65_Edit_Distance",
+      "projectName": "Leetcode 75_d54e8430"
+    },
+    {
+      "type": "java",
+      "name": "L57_Letter_Combinations_of_Number",
+      "request": "launch",
+      "mainClass": "L57_Letter_Combinations_of_Number",
+      "projectName": "Leetcode 75_d54e8430"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
